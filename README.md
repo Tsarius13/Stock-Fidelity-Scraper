@@ -4,7 +4,7 @@ A custom python program for getting stock prices from Yahoo Finance via web scra
 
 Some packages you'll need to run this:
 - The most up to date version of Selenium
-- Undetected chromedriver with the .exe placed in the same location as yahooFinance.py
+- Undetected chromedriver with the .exe placed in the same location as your Python executable file (where Python is stored on your computer)
 
 You'll also need:
 - A text file with stock symbols line by line for beginning the stock price scraping
