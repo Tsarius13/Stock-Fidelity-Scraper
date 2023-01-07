@@ -2,7 +2,7 @@
 
 A custom python program for getting stock prices from Yahoo Finance via web scraping (BeautifulSoup) and for getting Fidelity investment account balances and monetary changes via web automation (Selenium & chromedriver)
 
-This file was also built with automation in mind, so it can be easily automated with Windows Task Scheduler.
+This file was built with automation in mind, so it can be easily automated with Windows Task Scheduler.
 
 Some packages you'll need to run this:
 - The most up to date version of Selenium
